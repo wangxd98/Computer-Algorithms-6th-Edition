@@ -1,0 +1,5 @@
+
+Test MaxSum0
+a = -2 11 -4 13 -5 6 -2 1 
+21
+besti=2 bestj=6

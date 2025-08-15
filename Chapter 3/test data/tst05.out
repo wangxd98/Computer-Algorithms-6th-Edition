@@ -1,0 +1,7 @@
+
+Test LCSLength
+m=12 n=11
+x = ABCBDABAABCD
+y = BDCABABCDAA
+8
+LCS(x,y) = BCABABCD
