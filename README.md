@@ -1,4 +1,4 @@
-# 计算机算法设计与分析
+# 计算机算法设计与分析 (第6版)
 
 ![封面](image/第6版封面.png)
 
@@ -45,3 +45,4 @@ Based on the theoretical foundation of computer algorithm knowledge, this articl
 
 
 ★ Complete online problem library
+
