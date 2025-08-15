@@ -1,6 +1,6 @@
 # 计算机算法设计与分析
 
-![封面](C:\Users\wangx\Downloads\GitHub\Computer-Algorithms-6\image\第6版封面.png)
+![封面](image/第6版封面.png)
 
 This is the code repository for  [The Design and Analysis of Computer Algorithms 6th Edition](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=52699), published by Publishing House of Electronics Industry.
 
@@ -42,5 +42,6 @@ Based on the theoretical foundation of computer algorithm knowledge, this articl
 ★ New online automatic judge
 
 ★ All open-source  code
+
 
 ★ Complete online problem library
