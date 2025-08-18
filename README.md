@@ -12,7 +12,7 @@ This book covers the following exciting features:
 
 Explain the theoretical basis, implementation, and specific application techniques of algorithms from three aspects: theory,abstraction,and design. While discussing the core knowledge of algorithms, stimulate and enhance readers' computational thinking abilities. Using algorithm design strategies as the knowledge unit, systematically introduce the design methods and analysis techniques of computer algorithms, providing a broad and solid foundation of computer algorithm knowledge for computer and programming enthusiasts.
 
-- Chapter 1 Algorithm Overviewr
+- Chapter 1 Algorithm Overview
 - Chapter 2 Divide-and-Conquer Algorithms
 - Chapter 3: Dynamic Programming
 - Chapter 4 Greedy Algorithms
@@ -45,4 +45,5 @@ Based on the theoretical foundation of computer algorithm knowledge, this articl
 
 
 ★ Complete online problem library
+
 
