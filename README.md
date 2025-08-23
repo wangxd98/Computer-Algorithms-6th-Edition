@@ -2,7 +2,7 @@
 
 ![封面](image/第6版封面.png)
 
-This is the code repository for  [The Design and Analysis of Computer Algorithms 6th Edition](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=52699), published by Publishing House of Electronics Industry.
+This is the code repository for  [The Design and Analysis of Computer Algorithms 6th Edition](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=68002), published by Publishing House of Electronics Industry.[PHEI](https://mp.weixin.qq.com/s/BJhKQEseMmFwb_JkB_D8GQ)
 
 ## What is this book about?
 
@@ -45,5 +45,6 @@ Based on the theoretical foundation of computer algorithm knowledge, this articl
 
 
 ★ Complete online problem library
+
 
 
